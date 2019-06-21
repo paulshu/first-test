@@ -5,7 +5,7 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Test new Macbook pro 2019
 
 * System dependencies
 
